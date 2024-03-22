@@ -55,6 +55,7 @@ else
 <footer>
 (C)2024 Dominik Zatkalik 
 a este nieco
+	este druhy riadok
 </footer>
 
 
